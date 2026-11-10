@@ -172,6 +172,7 @@ dG
 
 # Đưa trỏ chuột lên trên đầu và xóa tất cả đằng sau trỏ chuột
 
+mot hai ba bon nam
 
 ```
 
